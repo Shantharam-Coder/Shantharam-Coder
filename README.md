@@ -1,30 +1,80 @@
-<h1 align="center">Hi 👋, I'm Shantharam</h1>
-<h3 align="center">"Quietly building, loudly dreaming"|CSE Student | Aspiring Full Stack Developer | Dreaming Big, Building Daily</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantharam-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shantharam-coder" /> </p>
-
-- 🔭 I’m currently working on **Netflix Clone**
-
-- 🌱 I’m currently learning **React and Spring**
-
-- 👯 I’m looking to collaborate on **Hackathon's and contest's**
-
-- 💬 Ask me about **Frontend technology , Machine Learning and DSA**
-
-- 📫 How to reach me **shantharam332@gmail.com**
-
-- ⚡ Fun fact **My code runs on dreams and determination ✨**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/shantharam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shantharam_18" height="30" width="40" /></a>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&text=I'm%20Shantharam&fontSize=36&animation=scaleIn&desc=2nd%20Year%20CSE%20Student%20•%20Java%20Enthusiast&descSize=18&descAlignY=55&fontAlignY=30" alt="Header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=435&height=50&lines=Computer+Science+Student;Full-Stack+Developer;Java+%7C+React+%7C+Spring+Boot" alt="Typing SVG">
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantharam-coder&show_icons=true&locale=en&layout=compact" alt="shantharam-coder" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantharam-coder&show_icons=true&locale=en" alt="shantharam-coder" /></p>
+- 🎓 **2nd Year CSE Student** | Specializing in **Java + React** development  
+- 🧰 Building **full-stack projects** with **Spring Boot** and modern frontend tools
+- 🌱 Currently expanding my skills in **system design** and **database optimization**
+- 📚 Learning through hands-on projects and open-source contributions
+- 💡 Passionate about writing **clean, maintainable code** and **solving real problems**
+- ✨ *Fun fact:* I treat git commits like diary entries 📓 - each commit tells a story of my coding journey!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantharam-coder&" alt="shantharam-coder" /></p>
+---
+
+🚀 **On my coding journey**: Learning • Building • Growing • Repeating
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Shantharam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shantharam-Coder&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shantharam-Coder&theme=vue-dark&hide_border=true&background=00000000&fire=FF9E0D&ring=FF9E0D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantharam-Coder&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000&hide_title=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shantharam-Coder&theme=github&bg_color=00000000&hide_border=true&area=true&area_color=FF9E0D)
+
+</div>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shantharam-Coder&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shantharam-Coder?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shantharam-Coder?label=Total%20Stars&color=yellow" alt="Total Stars" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://leetcode.com/yourprofile/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+
+---
