@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+## 🎬 Featured Project
+
+### Netflix Clone  
+A **Netflix-inspired web app** built with **React + Firebase** for authentication, with a clean and responsive UI.  
+
+🔗 **Live Demo:** [Netflix Clone](https://startling-salamander-8cdab0.netlify.app/)
+
 
 ## 📊 GitHub Stats
 
